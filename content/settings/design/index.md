@@ -2,6 +2,6 @@
 headless = true
 icon = ""
 logo = ""
-image = ""
+image = "/media/avo.jpg"
 color = ""
 +++
