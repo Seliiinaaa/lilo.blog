@@ -7,11 +7,7 @@ url = "/"
 
 [[link]]
 title = "ds bi ih"
-url = "cool wüssemers iz"
-
-[[link]]
-title = "Wiso nomau e titu?"
-url = "ka"
+url = "cool wüssemers iz :)"
 
 [[link]]
 title = "rägetröpfli"
