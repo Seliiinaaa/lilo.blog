@@ -2,11 +2,18 @@
 headless = true
 
 [[link]]
-title = "Home"
+title = "Z läbe läbe"
 url = "/"
 
 [[link]]
-title = "About me"
-url = "/about/"
-+++
+title = "ds bi ih"
+url = "cool wüssemers iz"
 
+[[link]]
+title = "Wiso nomau e titu?"
+url = "ka"
+
+[[link]]
+title = "rägetröpfli"
+url = "sunnestrau"
++++
