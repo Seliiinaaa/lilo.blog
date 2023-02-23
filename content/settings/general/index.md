@@ -1,7 +1,7 @@
 +++
 headless = true
 title = "Seliiiincheennn"
-description = "macht no fun"
+description = "ke ahnig wiso aber isch haut so"
 footerLeft = "* Bis eifach mau nid so luunisch"
 footerRight = "[](/tags/)okeiiii machemer so"
 +++
