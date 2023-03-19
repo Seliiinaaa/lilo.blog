@@ -5,19 +5,13 @@ draft = false
 pinned = false
 description = ""
 +++
-
-
 # Ist eine Sucht die Suche nach der eigenen Identität?
-
-
 
 {{<lead>}}
 
 Die ausgebildete Sozialarbeiterin Heidi Chalupny äussert sich zu ihrer Arbeit bei Contact Bern. Contact Bern gehört in der Drogenpolitik Schweiz zur Schadensminderung und bietet Menschen in der Drogensucht einen sicheren Konsumraum.
 
 {{</lead>}}
-
-
 
 <!--EndFragment-->
 
@@ -29,11 +23,13 @@ Hier haben wir vor allem mit illegalen Substanzen zu tun, welche medial stark ve
 
 **Was sind für dich die häufigsten Gründe, die Menschen in eine Sucht abgleiten lassen?**
 
- Das ist sehr vielfältig. Zum Teil sind es Biografien, die Menschen haben, die wirklich sehr traumatisierend waren. Sei es Gewalt in der Familie, Fremdplatzierungen oder Mobbing, Ereignisse, die den Start in das Leben sehr erschwert haben und der Konsum von illegalen Substanzen ein Ausweg war, um diese Dinge zu vergessen.
+Das ist sehr vielfältig. Zum Teil sind es Biografien, die Menschen haben, die wirklich sehr traumatisierend waren. Sei es Gewalt in der Familie, Fremdplatzierungen oder Mobbing, Ereignisse, die den Start in das Leben sehr erschwert haben und der Konsum von illegalen Substanzen ein Ausweg war, um diese Dinge zu vergessen.
 
  **Kann eine Sucht jeden/jede treffen?**
 
- Ich habe das Gefühl es kann jeden treffen! Ich habe nicht das Gefühl, dass ich so ein starker Mensch bin, dass es mich nicht erwischen könnte. Es gibt Menschen mit starken Schmerzen, die Heroin konsumieren, welches ein starkes Schmerzmedikament ist, weil ihre Schmerzen nicht auszuhalten sind. Meiner Meinung nach ist ein stabiles Umfeld eine riesige Unterstützung, dass eine Sucht nicht entsteht. Je nach Situation ist es schwierig, dem Konsum zu widerstehen, da Gruppendruck vorhanden ist. Da ist es eine Charakterfrage. 
+Ich habe das Gefühl es kann jeden treffen! Ich habe nicht das Gefühl, dass ich so ein starker Mensch bin, dass es mich nicht erwischen könnte. Es gibt Menschen mit starken Schmerzen, die Heroin konsumieren, welches ein starkes Schmerzmedikament ist, weil ihre Schmerzen nicht auszuhalten sind. Meiner Meinung nach ist ein stabiles Umfeld eine riesige Unterstützung, dass eine Sucht nicht entsteht. Je nach Situation ist es schwierig, dem Konsum zu widerstehen, da Gruppendruck vorhanden ist. Da ist es eine Charakterfrage. 
+
+>  Ich habe nicht das Gefühl, dass ich so ein starker Mensch bin, dass es mich nicht erwischen könnte.
 
 **Wie weit kann man einem Menschen in einer Sucht helfen?** 
 
@@ -53,12 +49,24 @@ Süchtige Personen können den Arbeitgeber*innen nicht die Wahrheit sagen, sie s
 
 **Gibt es Unterschiede zwischen den Geschlechtern?**
 
- Schweizweit ist es so, dass Frauen nur ungefähr ¼ der Drogenszene ausmachen. Minderheitsgruppen haben es immer ein bisschen schwieriger. Sie sind viel mehr von Gewalt betroffen. Generell sind Frauen mehr von Gewalt betroffen als Männer, oder die Männer reden nie darüber. Das Thema Sexarbeit ist bei Frauen viel grösser und was dies mitbringt, ist sexualisierte Gewalt oder auch physische Gewalt. Frauen haben ein viel grösseres Risiko, davon betroffen zu sein. Die Ausnutzung auf dem Strich ist massiv. 
+Schweizweit ist es so, dass Frauen nur ungefähr ¼ der Drogenszene ausmachen. Minderheitsgruppen haben es immer ein bisschen schwieriger. Sie sind viel mehr von Gewalt betroffen. Generell sind Frauen mehr von Gewalt betroffen als Männer, oder die Männer reden nie darüber. Das Thema Sexarbeit ist bei Frauen viel grösser und was dies mitbringt, ist sexualisierte Gewalt oder auch physische Gewalt. Frauen haben ein viel grösseres Risiko, davon betroffen zu sein. Die Ausnutzung auf dem Strich ist massiv. 
 
 **Was würdest du uns gerne noch zu dem Thema sagen oder auf den Weg geben, wie wir als Individuen und als Gesellschaft mit der Problematik und den Betroffenen umgehen können?**
 
- Die Stigmatisierung, ich wünschte mir, die höre auf. Es gibt nicht nur den Drogenkonsument oder die Drogenkonsumentin. Jeder Mensch ist anders. Wer hat es schon gerne, in eine Schublade gesteckt zu werden. Die Menschen, die bei uns sind, haben die Überschneidung Drogen, aber untereinander sind sie extrem unterschiedlich. Den Strafregisterauszug, den weiss ich nicht von allen. Wenn ich es wüsste, wäre ich bei gewissen schon schockiert. Es gibt Menschen, die wirklich schlimme Sachen gemacht haben, aber im Kontakt mit mir sind sie völlig anständig. Da muss man manchmal schon bisschen unterscheiden zwischen Tat und Täter oder Tat und Täterin. Nur weil jemand ein Gewaltdelikt verübt hat, ist der Mensch nicht automatisch ein Gewalttäter oder eine Gewalttäterin… 
+Die Stigmatisierung, ich wünschte mir, die höre auf. Es gibt nicht nur den Drogenkonsument oder die Drogenkonsumentin. Jeder Mensch ist anders. Wer hat es schon gerne, in eine Schublade gesteckt zu werden. Die Menschen, die bei uns sind, haben die Überschneidung Drogen, aber untereinander sind sie extrem unterschiedlich. Den Strafregisterauszug, den weiss ich nicht von allen. Wenn ich es wüsste, wäre ich bei gewissen schon schockiert. Es gibt Menschen, die wirklich schlimme Sachen gemacht haben, aber im Kontakt mit mir sind sie völlig anständig. Da muss man manchmal schon bisschen unterscheiden zwischen Tat und Täter oder Tat und Täterin. Nur weil jemand ein Gewaltdelikt verübt hat, ist der Mensch nicht automatisch ein Gewalttäter oder eine Gewalttäterin… 
 
 **Ist Sucht eine Suche nach der eigenen Identität?** 
 
 Leitfrage Ich habe manchmal das Gefühl, dass Jugendliche, die auf der Suche nach sich selbst sind, viele Substanzen ausprobieren. Es gibt jedoch auch Menschen, die Drogen als Medizin brauchen. Was wir häufig haben, sind Menschen mit ADHS, die Kokain konsumieren, weil dies ein bisschen wie Ritalin wirkt. Es gibt Menschen, die konsumieren, um Traumata zu verdrängen, sie sind nicht auf der Suche nach sich selbst. Es gibt auch psychiatrische Diagnosen, wo nicht klar ist, ob die Drogenabhängigkeit oder das psychische Problem zuerst da war.
+
+ Es gibt Menschen, die konsumieren, um Traumata zu verdrängen, sie sind nicht auf der Suche nach sich selbst. 
+
+![]()
+
+![]()
+
+![]()
+
+![]()
+
+![]()
