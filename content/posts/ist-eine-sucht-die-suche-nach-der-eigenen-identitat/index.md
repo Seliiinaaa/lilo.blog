@@ -6,7 +6,7 @@ pinned = false
 image = "drogenbild3.png"
 description = ""
 +++
-# Ist eine Sucht die Suche nach der eigenen Identität?
+
 
 {{<lead>}}
 
@@ -53,8 +53,6 @@ Die schwierigen Augenblicke sind, wenn man jemandem zusehen muss, dem es immer s
 Heidi Chalupny ist ausgebildete Sozialarbeiterin. Seit 14.5 Jahren arbeitet sie bei «Contact Bern». Seit letztem Juni ist sie stellvertretende Betriebsleiterin. Die Arbeit bei Contact macht ihr Spass und sie kann sich momentan nichts anderes vorstellen. Vor ihrem Sozialstudium hat sie eine Ausbildung zur Pflegefachfrau gemacht. Sie hat schon früh ein Interesse für das Thema Drogen und Menschen entwickelt.
 
 {{</box>}}
-
-
 
 **Es scheint, als wäre Sucht immer noch ein Tabuthema in unserer Gesellschaft, wie nimmst du das wahr?** 
 
