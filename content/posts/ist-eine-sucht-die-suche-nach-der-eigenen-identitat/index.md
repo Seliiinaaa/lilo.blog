@@ -59,7 +59,7 @@ Die Stigmatisierung, ich wünschte mir, die höre auf. Es gibt nicht nur den Dro
 
 Leitfrage Ich habe manchmal das Gefühl, dass Jugendliche, die auf der Suche nach sich selbst sind, viele Substanzen ausprobieren. Es gibt jedoch auch Menschen, die Drogen als Medizin brauchen. Was wir häufig haben, sind Menschen mit ADHS, die Kokain konsumieren, weil dies ein bisschen wie Ritalin wirkt. Es gibt Menschen, die konsumieren, um Traumata zu verdrängen, sie sind nicht auf der Suche nach sich selbst. Es gibt auch psychiatrische Diagnosen, wo nicht klar ist, ob die Drogenabhängigkeit oder das psychische Problem zuerst da war.
 
- Es gibt Menschen, die konsumieren, um Traumata zu verdrängen, sie sind nicht auf der Suche nach sich selbst. 
+>  Es gibt Menschen, die konsumieren, um Traumata zu verdrängen, sie sind nicht auf der Suche nach sich selbst. 
 
 ![]()
 
