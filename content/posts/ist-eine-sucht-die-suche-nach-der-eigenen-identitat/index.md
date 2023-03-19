@@ -13,6 +13,8 @@ Die ausgebildete Sozialarbeiterin Heidi Chalupny äussert sich zu ihrer Arbeit b
 
 {{</lead>}}
 
+![Raum für selbstständige intravenöse Injektionen](drigebiud.jpg)
+
 <!--EndFragment-->
 
 <!--StartFragment-->
@@ -38,6 +40,8 @@ Das ist schwer. Wenn eine Person nicht aufhören möchte zu konsumieren, kann ma
 **Woran machst du Erfolge deiner Arbeit fest, und welche Ziele sind realistisch zu erreichen?** 
 
 Man darf Erfolge nicht mit Abstinenz gleichsetzen, dann wären die Erfolgschancen bei uns gleich null. Das Problem ist, dass wir die Leute hier nur sehen, wenn sie konsumieren. Während all den Jahren, in denen ich hier arbeite, sind x Leute nicht mehr gekommen. In den meisten Fällen weiss ich nicht, weshalb sie nicht mehr kommen. Manche tauchen wieder auf und sagen, dass sie im Gefängnis waren, andere waren im Entzug und haben es nicht geschafft, wieder andere sind vielleicht sogar gestorben. Meine Erfolge sind die kleinen Sachen. Zum Beispiel wenn es Leuten sehr schlecht ging und es ihnen plötzlich wieder besser geht, da bin ich schon sehr froh. Unsere Leute kommen nicht wegen mir hierher, sie kommen wegen dem Konsum.
+
+![Ausgabe der sterilen Konsummaterialien](drogebiud2.jpg)
 
 **Was sind die schwierigsten und was die schönsten Situationen in deiner Arbeit mit den Klienten und Klientinnen?** 
 
