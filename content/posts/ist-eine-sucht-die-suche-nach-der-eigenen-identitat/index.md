@@ -43,6 +43,14 @@ Man darf Erfolge nicht mit Abstinenz gleichsetzen, dann wären die Erfolgschance
 
 Die schwierigen Augenblicke sind, wenn man jemandem zusehen muss, dem es immer schlechter geht. Das ist schwer auszuhalten, denn man hat das Gefühl, dass die Person etwas ändern sollte. Wir haben aber nicht die Autorität oder Macht- wir dürfen diesen Menschen nichts vorschreiben. Auch schwierig ist es, wenn wir sehen, dass jemand sehr krank ist und man weiss, dass diese Person nie mehr gesund wird. Also wenn es in eine Sterbebegleitung reingeht, das ist hart mitzuerleben. Das klingt jetzt alles so schwer, aber es gibt jeden Tag auch so schöne Begegnungen. Es gibt Menschen, die es cool finden, wenn ich in der Schicht bin, wenn wir reden können oder wenn wir zusammen Kaffeetrinken können, dann finden sie das grossartig. 
 
+{{<box>}}
+
+Heidi Chalupny ist ausgebildete Sozialarbeiterin. Seit 14.5 Jahren arbeitet sie bei «Contact Bern». Seit letztem Juni ist sie stellvertretende Betriebsleiterin. Die Arbeit bei Contact macht ihr Spass und sie kann sich momentan nichts anderes vorstellen. Vor ihrem Sozialstudium hat sie eine Ausbildung zur Pflegefachfrau gemacht. Sie hat schon früh ein Interesse für das Thema Drogen und Menschen entwickelt.
+
+{{</box>}}
+
+
+
 **Es scheint, als wäre Sucht immer noch ein Tabuthema in unserer Gesellschaft, wie nimmst du das wahr?** 
 
 Süchtige Personen können den Arbeitgeber*innen nicht die Wahrheit sagen, sie sind in einer schrecklichen zwiespältigen Lebenssituation. Sie haben ein Parallelleben, auf der einen Seite hier den Konsum und auf der anderen Seite die Arbeit oder das Zuhause. Diese Menschen sind sicher in einer Tabusituation. Gleichzeitig muss man auch sagen, dass so viel konsumiert wird. Wenn man auf eine Party geht, da weiss man genau, da ist MDMA, Amphi, Kokain, plus noch Alkohol. Ich habe das Gefühl, dass Abstufungen gemacht werden: Heroin ist der Teufel, aber so Partydrogen sind ok, das finde ich dann so gemein. Nur weil jemand Heroin konsumiert, ist er nicht automatisch schlechter als alle anderen. Es können auch Menschen, die über Jahre nur auf Partys etwas gespickt oder geschnupft haben, in einer Abhängigkeit landen. 
