@@ -23,11 +23,23 @@ Mit besorgter Miene erzählt sie, dass Menschen jedes Mal, wenn sie den Fussgän
 
 >  «Diese Stigmatisierung, ich wünschte mir, die höre auf»
 
+![Ausgabe der sterilen Konsummaterialien](drogebiud2.jpg)
+
 #### Die Beweggründe
 
 Da drängt sich die Frage auf, wie es so weit kommen kann, dass eine Droge diesen Platz im Leben eines Menschen einnimmt. Heidi seufzt und macht eine Pause. Da gibt es Unterschiede, von Menschen, die durch Ausprobieren hängengeblieben sind, die Droge als Medizin verwenden bis hin zu Menschen, die traumatische Erlebnisse verdrängen. Es ist schwierig, diese Frage allgemein zu beantworten, aber sie denkt, dass eine Drogensucht jeden/jede treffen kann. «Ich habe nicht das Gefühl, dass ich so ein starker Mensch bin, dass es mich nicht erwischen könnte», gibt Heidi offen zu. Betroffenheit kommt auf, als sie erzählt, dass die Ausnutzung von Frauen auf dem Strich massiv ist. Frauen sind in der Drogenszene eine Minderheitsgruppe, welche häufig von sexualisierter und physischer Gewalt betroffen sind.
 
 >  «Ich habe nicht das Gefühl, dass ich so ein starker Mensch bin, dass es mich nicht erwischen könnte»
+
+
+
+{{<box>}}
+
+Laut dem ICD-11 (International Statistical Classification of Diseases and Related Health Problems) gelten Menschen als drogenabhängig, wenn mindestens zwei der folgenden Kriterien im Zeitraum von mindestens 12 Monaten auftreten. Als Kriterien gelten, einen Kontrollverlust über den Konsum erlebt zu haben, die Droge einen immer höheren Stellenwert im Leben einnimmt und die betroffene Person immer mehr von dieser Substanz benötigen, da sie eine gewisse Toleranz entwickelt.
+
+{{<box>}}
+
+
 
 #### Liebe und Empathie im gemeinsamen Umgang 
 
