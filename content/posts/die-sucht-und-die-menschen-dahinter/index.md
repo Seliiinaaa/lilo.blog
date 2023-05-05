@@ -3,7 +3,7 @@ title = "Die Sucht und die Menschen dahinter"
 date = "2023-04-30"
 draft = false
 pinned = false
-image = "microsoftteams-image-10-.png"
+image = "drigebiud.jpg"
 +++
 {{<lead>}}
 
