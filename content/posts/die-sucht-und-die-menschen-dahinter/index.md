@@ -23,7 +23,7 @@ Mit besorgter Miene erzählt sie, dass Menschen jedes Mal, wenn sie den Fussgän
 
 >  «Diese Stigmatisierung, ich wünschte mir, die höre auf»
 
-![Ausgabe der sterilen Konsummaterialien](drogebiud2.jpg)
+![Ausgabe der sterilen Konsummaterialien](drogebiud2-1-.jpg)
 
 #### Die Beweggründe
 
