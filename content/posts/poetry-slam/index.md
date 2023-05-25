@@ -4,6 +4,7 @@ date = "2023-05-25"
 draft = false
 pinned = false
 tags = []
+image = "seifenblasen-bild.jpg"
 description = "\n\n\n"
 +++
 EGAU:
