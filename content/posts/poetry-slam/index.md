@@ -8,7 +8,9 @@ image = "seifenblasen-bild.jpg"
 description = "\n\n\n"
 +++
 EGAU:
-Du seisch dir ischs egau, 
+Du seisch dir ischs egau
+
+
 doch egau isch ke Meinig
 Egau bedütet enhautig
 Enthautig füert ni wiiter¨
